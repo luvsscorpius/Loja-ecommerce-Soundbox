@@ -69,6 +69,8 @@ header {
     align-items: center;
 }
 
+/* menu */
+
 #menu {
     font-size: 35px;
     color: var(--text-color);
